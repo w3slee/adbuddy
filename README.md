@@ -1,5 +1,3 @@
-# adbuddy
-Android Debug Bridge Command Line Utility.
 # ADBUDDY
 Android Debug Bridge Command Line Utility.
 
